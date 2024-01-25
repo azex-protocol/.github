@@ -9,3 +9,6 @@ https://www.figma.com/file/vDSbmEw9X1DmU8CdWxKgmW/AZEX?type=design&node-id=0-1&m
 
 ### `How it works`
 ![Alt text](https://github.com/azex-protocol/.github/blob/main/azex-how%20it%20works.png?raw=true)
+
+### `Workspace`
+https://github.com/orgs/azex-protocol/projects/1
